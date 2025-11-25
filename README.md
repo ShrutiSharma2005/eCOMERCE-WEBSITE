@@ -9,7 +9,6 @@ Currently, two official plugins are available:
 
 
 
-![WhatsApp Image 2025-11-24 at 00 12 07_a7f891c4](https://github.com/user-attachments/assets/7ecf32fe-e0a3-414c-9028-9127755fe960)
 
 🛒 Full-Stack E-Commerce Platform
 React + Vite • Node.js • Express • MongoDB • Tailwind • Redux Toolkit
@@ -154,8 +153,11 @@ Postman API testing
                       
 <img width="895" height="530" alt="image" src="https://github.com/user-attachments/assets/b810f10b-761c-428e-8112-718ab4eed9d8" />
 
-ERDiagram
+ER Diagram
+
+
 ![WhatsApp Image 2025-11-24 at 00 12 07_a7f891c4](https://github.com/user-attachments/assets/7ecf32fe-e0a3-414c-9028-9127755fe960)
+
 📂 Folder Structure (Recommended)
 ecommerce-project/
 │
